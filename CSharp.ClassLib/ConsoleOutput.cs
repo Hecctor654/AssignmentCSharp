@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharp.ClassLib
 {
-    public class Class1
+    public class ConsoleOutput
     {
+        public static void Arithmetic()
+        {
+
+        }
     }
 }
